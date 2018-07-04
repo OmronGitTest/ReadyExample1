@@ -8,7 +8,7 @@
     </ExecutionConditionCJUnit>
   </GeneralSettingsData>
   <Programs>
-    <AssociatedProgramData ProgramName="Program0" InstanceName="Program0" IniFileTrackingId="44d5d96da7ab43d5bba6485d55be6f43" StartupSetting="TRUE" SequenceNumber="1" IsDebugProgram="false" />
+    <AssociatedProgramData ProgramName="UserA" InstanceName="UserA" IniFileTrackingId="44d5d96da7ab43d5bba6485d55be6f43" StartupSetting="TRUE" SequenceNumber="1" IsDebugProgram="false" />
   </Programs>
   <RefreshUnitIds />
   <TaskInterfaceVariables version="1" />
