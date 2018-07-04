@@ -3,4 +3,5 @@ _EN=Variables
 +GN=VAR	GVT=DefaultGroup
 ++D=BOOL	N=input2	G=VAR
 ++D=BOOL	N=output2	G=VAR
+++D=BOOL	N=input3	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
