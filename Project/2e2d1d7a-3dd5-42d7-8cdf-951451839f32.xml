@@ -1,2 +1,2 @@
-﻿{"CLs":[{"__type":"LD","Var":"input3"},{"__type":"ST","Ix":1,"Var":"output2","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+﻿{"CLs":[{"__type":"LD","Var":"input2"},{"__type":"ST","Ix":1,"Var":"output3","X":1}],"LRI":2,"RRI":3,"VLs":[]}
 {"CLs":[{"__type":"F","In":[{"__type":"PF","Arg":"EN"},{"__type":"PRM","Arg":"In","Type":"ANY","Var":"input2"}],"Ix":2,"Name":"MOVE","Out":[{"__type":"PF","Arg":"ENO"},{"__type":"PRM","Arg":"Out","Ix":1,"Type":"ANY","Var":"output1"}]}],"LRI":3,"RRI":4,"VLs":[]}
