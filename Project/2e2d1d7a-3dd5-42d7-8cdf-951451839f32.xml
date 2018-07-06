@@ -1,2 +1,3 @@
 ﻿{"CLs":[{"__type":"LD","Var":"input2"},{"__type":"ST","Ix":1,"Var":"output3","X":1}],"LRI":2,"RRI":3,"VLs":[]}
 {"CLs":[{"__type":"F","In":[{"__type":"PF","Arg":"EN"},{"__type":"PRM","Arg":"In","Type":"ANY","Var":"input2"}],"Ix":2,"Name":"MOVE","Out":[{"__type":"PF","Arg":"ENO"},{"__type":"PRM","Arg":"Out","Ix":1,"Type":"ANY","Var":"output1"}]}],"LRI":3,"RRI":4,"VLs":[]}
+{"CLs":[{"__type":"F","In":[{"__type":"PF","Arg":"EN"},{"__type":"PRM","Arg":"In1","Type":"STRING","Var":""},{"__type":"PRM","Arg":"In2","Ix":1,"Type":"STRING","Var":""},{"__type":"PRM","Arg":"P","Ix":2,"Type":"UINT","Var":""}],"Ix":4,"Name":"INSERT","Out":[{"__type":"PF","Arg":"ENO"},{"__type":"PRM","Arg":"","Ix":3,"Type":"STRING","Var":""}]}],"LRI":5,"RRI":6,"VLs":[]}
